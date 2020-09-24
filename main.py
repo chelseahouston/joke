@@ -1,5 +1,5 @@
 def joker():
-  number = input("Welcome to the Joker. Enter a number between 1-10 to get a Joke! ")
+  number = input("Enter a number between 1-10 to get a Joke: ")
   try:
     number = int(number)
   except ValueError:
