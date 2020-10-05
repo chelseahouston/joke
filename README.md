@@ -9,4 +9,3 @@ python3 main.py
 ```
 
 Created as part of the TechTalent Academy Women in Software course.
-
